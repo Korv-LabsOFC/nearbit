@@ -1,0 +1,16 @@
+{
+	"name": "nearbit",
+	"version": "0.1.0-alpha",
+	"private": true,
+	"description": "Lightweight real-time messaging over a local network.",
+	"main": "src/server/index.js",
+	"scripts": {
+		"start": "node src/server/index.js",
+		"dev": "node --watch src/server/index.js",
+		"test": "node --test"
+	},
+	"dependencies": {
+		"express": "^5.2.1",
+		"ws": "^8.21.3"
+	}
+}
