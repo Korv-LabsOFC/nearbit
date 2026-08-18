@@ -1,5 +1,11 @@
 # Nearbit
 
+<p align="center">
+  <a href="https://www.youtube.com/@capideb">
+    <img src="https://img.shields.io/badge/YouTube-Capi.deb-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — Capi.deb">
+  </a>
+</p>
+
 Nearbit is a lightweight real-time messaging application designed for devices connected to the same local network.
 
 The project focuses on simple LAN communication, real-time messaging, responsive interfaces, and learning how networking technologies such as HTTP, TCP, WebSockets, and local IP addressing work in practice.
