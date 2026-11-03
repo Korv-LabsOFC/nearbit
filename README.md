@@ -257,3 +257,9 @@ v0.1.0-alpha
 ## License
 
 License to be defined.
+
+---
+
+## KORV Labs
+
+This project is part of the **KORV Labs** ecosystem — an independent technology lab building software, developer tools, and digital products.
